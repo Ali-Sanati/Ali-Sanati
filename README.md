@@ -3,7 +3,7 @@ I am a highly motivated Back-End Developer with 4 years of experience specializi
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-8A2BE2?style=flat&logo=counterstrike&logoColor=white&logoSize=auto)](https://alisanatidev.com/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio_Website-8A2BE2?style=flat&logo=counterstrike&logoColor=white&logoSize=auto)](https://alisanati.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
 # 💻 Tech Stack:
